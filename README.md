@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-14%2B-1A5F91)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
