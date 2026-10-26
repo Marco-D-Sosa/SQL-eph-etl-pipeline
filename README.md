@@ -120,8 +120,8 @@ La base no se incluye en el repo (está en `.gitignore`) porque se regenera con 
 
 1. Clonar e instalar dependencias:
    ```bash
-   git clone https://github.com/Marco-D-Sosa/Pobreza-Argentina.git
-   cd Pobreza-Argentina
+   git clone https://github.com/Marco-D-Sosa/SQL-eph-etl-pipeline.git
+   cd SQL-eph-etl-pipeline
    pip install -r requirements.txt
    ```
 2. Construir la base (la primera vez baja todo; las siguientes solo lo que falta):
@@ -150,7 +150,7 @@ La base no se incluye en el repo (está en `.gitignore`) porque se regenera con 
 ### Estructura del repositorio
 
 ```
-Pobreza-Argentina/
+SQL-eph-etl-pipeline/
 ├── Base de datos/
 │   ├── eph_sql.py                    # descarga, carga, validación y vistas (el script principal)
 │   └── EPH diseño.pdf                # diseño de registro de la EPH (INDEC)
